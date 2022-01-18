@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working on ethical projects around software and datasets. As part of my Fellowship with the Software Sustainability Institute, I am planning sessions and workshops on artefacts creation that prompt conversations, imaginaries and action points for software creativity that takes nto account our ecosystems, social spaces and justice.
-## 🌱 I’m currently learning how to use data science tools with art and joy in mind.
-## 👯 I’m looking to collaborate on any projects, visions that want oppressive systems replaced for liberatory and joyful systems of life.
+### 🔭 I’m currently working on ethical projects around software and datasets. As part of my Fellowship with the Software Sustainability Institute, I am planning sessions and workshops on artefacts creation that prompt conversations, imaginaries and action points for software creativity that takes nto account our ecosystems, social spaces and justice.
+### 🌱 I’m currently learning how to use data science tools with art and joy in mind.
+### 👯 I’m looking to collaborate on any projects, visions that want oppressive systems replaced for liberatory and joyful systems of life.
 
 
 <!--
